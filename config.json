@@ -1,0 +1,9 @@
+{
+	"ip":"chocolatesmp2022.aternos.me",
+	"port": "58771",
+	"name": "24/7",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register (41324132(remember_no_spaces)) (41324132(remember_no_spaces))",
+	"login-cmd":"/login (41324132)"
+}   
